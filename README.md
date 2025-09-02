@@ -1,8 +1,7 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Ante</h1>
 <h3 align="center">💻 Junior Frontend Developer</h3>
-
+<h3 align="center">🌍 Iz Bosne i Hercegovine  </h3>
+<h3 align="center">🚀 Fokusiran na React, JavaScript, HTML i CSS  r</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
